@@ -71,7 +71,7 @@ const Sidebar = () => {
           </SignedIn>
 
           <SignedOut>
-            <li className="button bg-purple-gradient bg-cover hover:cursor-pointer hover:text-white">
+            <li className="button bg-purple-gradient bg-cover hover:cursor-pointer text-white">
              <SignInButton>
               <p>Login</p>
             </SignInButton>   
