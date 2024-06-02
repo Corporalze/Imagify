@@ -73,7 +73,7 @@ const Sidebar = () => {
           <SignedOut>
             <li className="button bg-purple-gradient bg-cover hover:cursor-pointer text-white">
              <SignInButton>
-              <p>Login</p>
+              Login
             </SignInButton>   
             </li>
             
